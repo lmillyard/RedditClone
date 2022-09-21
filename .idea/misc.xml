@@ -4,7 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Owner/AndroidStudioProjects/RedditClone/app/src/main/res/layout/activity_main.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/RedditClone/app/src/main/res/layout/activity_post_details.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/RedditClone/app/src/main/res/layout/reddit_other_post_layout.xml" value="0.18802083333333333" />
         <entry key="..\:/Users/Owner/AndroidStudioProjects/RedditClone/app/src/main/res/layout/reddit_post_layout.xml" value="0.33" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/RedditClone/app/src/main/res/layout/reddit_video_post_layout.xml" value="0.33" />
       </map>
     </option>
   </component>

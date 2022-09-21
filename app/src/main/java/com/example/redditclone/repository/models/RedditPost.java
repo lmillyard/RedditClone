@@ -17,6 +17,8 @@ public class RedditPost {
     private String author;
     @JsonProperty("is_video")
     private Boolean isVideo;
+    @JsonProperty("permalink")
+    private String permalink;
 
     public String getSubreddit() {
         return subreddit;
@@ -66,11 +68,16 @@ public class RedditPost {
         this.author = author;
     }
 
-    public Boolean getVideo() {
+    public Boolean isVideo() {
         return isVideo;
     }
 
     public void setVideo(Boolean video) {
         isVideo = video;
     }
+
+    public String getPermalink() {
+        return permalink;
+    }
+
 }
